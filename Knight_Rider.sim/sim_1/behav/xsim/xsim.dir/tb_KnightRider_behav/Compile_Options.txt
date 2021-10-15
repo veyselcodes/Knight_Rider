@@ -1,0 +1,1 @@
+-wto "f4dda6ab40ce4c2ab46a49b6842df7ac" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_KnightRider_behav" "xil_defaultlib.tb_KnightRider" "xil_defaultlib.glbl" -log "elaborate.log" 
